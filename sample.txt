@@ -1,0 +1,11 @@
+hi my name is aditya goel  
+
+formula for a +b is purpose of this script
+a=1
+b=8
+c=a+b
+
+formula for a+b+c
+
+c=2
+d=a+b+c+d
